@@ -1,5 +1,3 @@
-# Projects-Yun.github.io
-<!DOCTYPE html>
 <html>
     
     <style>
