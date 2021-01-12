@@ -95,7 +95,9 @@
         <meta name="keywords" content="Yun's Projects, Yun Tao, Yun Tao's Projects">
         <meta name="description" content="Don't mind me, this is just a website for my projects">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <h1></h1><h2></h2>
+        <h1>
+        
+        </h1><h2></h2>
         <title>Yun's Projects</title>
         <h5 class="fade-in base">
             Projects list
