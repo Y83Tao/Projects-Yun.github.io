@@ -144,7 +144,7 @@
 
 
         <p id="rcorners" class="base">
-            <img class="cornerImage" src="knight.gif" alt="ThePurifiersIcon" width="140" height= "140">  
+            <img class="cornerImage" src="Knight.gif" alt="ThePurifiersIcon" width="140" height= "140">  
         </p>  
         <p class="cornersBase">Python Dungeon Crawler<br>
             Programming Language: Python<br>
