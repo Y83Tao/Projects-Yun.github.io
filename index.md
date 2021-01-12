@@ -149,7 +149,7 @@
         <p class="cornersBase">Python Dungeon Crawler<br>
             Programming Language: Python<br>
             IDE: PyCharm<br>
-            School Culminating
+            School Culminating<br>
             Github Link: <a href="https://github.com/Y83Tao/Python-Dungeon-Crawler" class="color">Link</a><br>
         </p>
 
