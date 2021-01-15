@@ -112,7 +112,7 @@
             Programming Language: Java<br>
             IDE: Intellij (Java) LIBGDX extension<br>
             Art Program: Asesprite<br>
-            Application Link: <a href="https://docs.google.com/document/d/1-NaynmWokK7eVWDVENhJRUXXmPNuBNWEi6wyLfAZwZ0/edit?usp=sharing" class="color">
+            Github Link: <a href="https://github.com/Y83Tao/Descending-Labryinth-y83tao" class="color">
                 Link</a> <br>
             Showcase Video: <a href="https://drive.google.com/file/d/19wOt4qFzCiBrGTeKLnV4ZN0TDIlk6eTQ/view?usp=sharing" class="color">
                 Link</a><br>
@@ -137,7 +137,7 @@
             Programming Language: Java<br>
             IDE: Intellij (Java) LIBGDX extension<br>
             School Culminating<br>
-            Application Link:<br>
+            Github Link: <a href="https://cutt.ly/Xjb0nvl" class="color">Link</a>
             Showcase Video: <a href="https://drive.google.com/file/d/1zYhXG49GHMNKVyOAMOMbmWzalxpW9zU6/view?usp=sharing" class="color">Link</a>
             <br>
         </p>
