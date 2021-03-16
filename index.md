@@ -70,7 +70,7 @@
             margin-top: 100px;
             width: 75%;
             max-width: 1500px;
-            min-width: 750px;
+            min-width: 700px;
             height: 100%;
             min-height: 200px;
             max-height: 200px;
