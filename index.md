@@ -1,5 +1,8 @@
+<!DOCTYPE html>
 <html>
-    
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
     <style>
         html{
             scroll-behavior: smooth;
@@ -30,6 +33,8 @@
         }
 
         .fade-in {
+            position: relative;
+            top: 50px;
         animation: fadeIn ease 2s;
         -webkit-animation: fadeIn ease 2s;
         -moz-animation: fadeIn ease 2s;
@@ -60,24 +65,28 @@
             position: static ;
             border-radius: 25px;
             background: rgba(1, 1, 1, 0.4);
-            padding: 20px;
+            background-position: center;
             margin-left: auto;
             margin-right: auto;
+            margin-top: 100px;
             width: 75%;
-            min-width: 100px;
-            height: 150px;
+            max-width: 1500px;
+            min-width: 750px;
+            height: 100%;
+            min-height: 200px;
+            max-height: 200px;
         }
         .cornersBase{
             color: white;
             text-align: center;
             font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
             position: relative;
-            top: -175px;
+            top: -120px;
         }
 
         img.cornerImage{
             margin-left: -70%;
-            margin-top: 1%;
+            margin-top: 2%;
             opacity: 1;
             position: relative;
             z-index: 1;
@@ -95,75 +104,80 @@
         <meta name="keywords" content="Yun's Projects, Yun Tao, Yun Tao's Projects">
         <meta name="description" content="Don't mind me, this is just a website for my projects">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <h1>
-        
-        </h1><h2></h2>
         <title>Yun's Projects</title>
         <h5 class="fade-in base">
             Projects list
-            <h6 class="fade-in base">Yun Tao</h6> 
         </h5>
+        <h4 class="fade-in base">
+            Yun Tao
+        </h4>       
 
+        
 
         <p id="rcorners" class="cornersBase">
             <img class="cornerImage" src="skeletonHeavyIdle.gif" alt="ThePurifiersIcon" width="140" height= "140">
+            <b class="cornersBase"><br>
+                Descending Dungeons<br>
+                Programming Language: Java<br>
+                IDE: Intellij (Java) LIBGDX extension<br>
+                Art Program: Asesprite<br>
+                Application Link: <a href="https://docs.google.com/document/d/1-NaynmWokK7eVWDVENhJRUXXmPNuBNWEi6wyLfAZwZ0/edit?usp=sharing" class="color">Link</a> <br>
+                Showcase Video: <a href="https://drive.google.com/file/d/19wOt4qFzCiBrGTeKLnV4ZN0TDIlk6eTQ/view?usp=sharing" class="color">
+                    Link</a><br>
+            </b>
         </p>  
-        <p class="cornersBase">Descending Dungeons<br>
-            Programming Language: Java<br>
-            IDE: Intellij (Java) LIBGDX extension<br>
-            Art Program: Asesprite<br>
-            Github Link: <a href="https://github.com/Y83Tao/Descending-Labryinth-y83tao" class="color">
-                Link</a> <br>
-            Showcase Video: <a href="https://drive.google.com/file/d/19wOt4qFzCiBrGTeKLnV4ZN0TDIlk6eTQ/view?usp=sharing" class="color">
-                Link</a><br>
-        </p>
+    
 
         <p id="rcorners" class="base">
-          <img class="cornerImage" src="ThePurifiersIcon.gif" alt="ThePurifiersIcon" width="140" height= "140">  
-        </p>
-        <p class="cornersBase"><br>The Purifiers<br>
+          <img class="cornerImage" src="ThePurifiersIcon.gif" alt="ThePurifiersIcon" width="140" height= "140"> 
+            <b class="cornersBase"><br>The Purifiers<br>
             Programming Language: Java<br>
             IDE: Intellij (Java) LIBGDX extension<br>
             Art Program: Photoshop<br>
             App Link: <a href="https://play.google.com/store/apps/details?id=com.projectgrapes.game&hl=en&gl=US" class="color">Link</a> <br>
+            Github Link: <a href="https://github.com/Y83Tao/Purifiers" class="color">Link</a> <br>
             
+            </b>
+        </p>
+
+         <p id="rcorners" class="base">
+          <img class="cornerImage" src="padoru.png" alt="PadoruIcon" width="100" height= "140"> 
+            <b class="cornersBase"><br>Padoru Website<br>
+            Programming Languages: Javascript, Html, Css<br>
+            Frameworks: Node.js, Express.js, BCrypt.js, Bootstrap<br>
+            IDE: Visual Sutdio Code<br>
+            Website Link: <a href="https://pad0ru.herokuapp.com/" class="color">Link</a> <br>
+            
+            </b>
         </p>
 
 
         <p id="rcorners" class="base">
-            <img class="cornerImage" src="ecoSim.png" alt="ThePurifiersIcon" width="140" height= "140">  
-        </p>  
-        <p class="cornersBase">Eco Sim<br>
+            <img class="cornerImage" src="ecoSim.png" alt="ThePurifiersIcon" width="140" height= "140"> 
+            <b class="cornersBase"><br>Eco Sim<br>
             Programming Language: Java<br>
             IDE: Intellij (Java) LIBGDX extension<br>
             School Culminating<br>
-            Github Link: <a href="https://cutt.ly/Xjb0nvl" class="color">Link</a>
+            Application Link:<br>
             Showcase Video: <a href="https://drive.google.com/file/d/1zYhXG49GHMNKVyOAMOMbmWzalxpW9zU6/view?usp=sharing" class="color">Link</a>
             <br>
-        </p>
-
-
-        <p id="rcorners" class="base">
-            <img class="cornerImage" src="Knight.gif" alt="ThePurifiersIcon" width="140" height= "140">  
+            </b>
         </p>  
-        <p class="cornersBase">Python Dungeon Crawler<br>
-            Programming Language: Python<br>
-            IDE: PyCharm<br>
-            School Culminating<br>
-            Github Link: <a href="https://github.com/Y83Tao/Python-Dungeon-Crawler" class="color">Link</a><br>
-        </p>
+   
+
 
 
         <p id="rcorners" class="base">
             <img class="cornerImage" src="WIP.png" alt="ThePurifiersIcon" width="140" height= "140">  
-        </p>  
-        <p class="cornersBase">The Negotiator<br>
+            <b class="cornersBase"><br>The Negotiator<br>
             Programming Language: C#<br>
             IDE: Unity Game Engine<br>
             Work In Progress<br>
             Application Link: ---<br>
             Showcase Video: ---   <br>
-        </p>
+            </b>
+
+        </p>  
 
     </head>
 
